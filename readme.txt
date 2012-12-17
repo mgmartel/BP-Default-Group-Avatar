@@ -5,7 +5,7 @@ Tags: buddypress, groups, avatar, default
 Requires at least: WordPress 3.5 and BuddyPress 1.6.2
 Tested up to: WordPress 3.5 and BuddyPress 1.6.2
 
-Adds a default group avatar to BuddyPress. Configure the image URL via the option page.
+Adds a default group avatar to BuddyPress without disabling Gravatars for users.
 
 == Description ==
 
